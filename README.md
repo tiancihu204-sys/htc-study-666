@@ -12,3 +12,6 @@ anaconda3创建环境（如何指定python版本、pip安装软件：torch numpy
   这里就进去新创建的conda 环境了，你可以在这个环境内部安装需要的包
   pip install torch(这里需要去官网看看咋装，需要对应驱动乱七八糟)
   
+vscode连接本地wsl2,作为基础开发环境
+需要了解python的安装方式 pip install -e . 啥意思
+以上做好，基础配置结束。
